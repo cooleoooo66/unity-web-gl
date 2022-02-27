@@ -1,0 +1,10 @@
+
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "multiplayer-battle-royale.data.unityweb",
+"asmCodeUrl": "multiplayer-battle-royale.asm.code.unityweb",
+"asmMemoryUrl": "multiplayer-battle-royale.asm.memory.unityweb",
+"asmFrameworkUrl": "multiplayer-battle-royale.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
